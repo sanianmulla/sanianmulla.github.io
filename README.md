@@ -2,4 +2,8 @@
 
 hello gsu isnt this fun? 
 
-## header 2
+## Introduction 
+https://www.gsu.edu/
+
+![alt text!](path to image)
+
