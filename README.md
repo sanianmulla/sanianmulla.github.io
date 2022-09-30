@@ -1,7 +1,6 @@
 # sanianmulla.github.io
 
-hello gsu isnt this fun? 
-
+Hi my name is Sania
 ## Introduction 
 
 
