@@ -3,7 +3,8 @@
 hello gsu isnt this fun? 
 
 ## Introduction 
+
 https://www.gsu.edu/
 
-![alt text!](path to image)
+![alt text!](logo.png)
 
