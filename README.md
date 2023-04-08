@@ -3,6 +3,5 @@
 Hi my name is Sania
 ## Introduction 
 
-
-![alt text!](logo.png)
+I am a recent graduate of Georgia State University with a degree in Computer Information Systems
 
